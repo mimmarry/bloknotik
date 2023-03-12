@@ -1,0 +1,14 @@
+﻿<Window x:Class="bloknotik.Windows.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bloknotik.Windows"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        
+            <TextBlock Foreground="#FFCC7777" FontFamily="Bahnschrift Condensed" FontSize="20"><Run Text="Я в своем познании настолько преисполнился, что я как будто бы уже сто триллионов миллиардов лет проживаю на "/><LineBreak/><Run Text="триллионах и триллионах таких же планет, как эта Земля, мне этот мир абсолютно понятен, "/><LineBreak/><Run/><LineBreak/><Run Text="и я здесь ищу только одного - покоя, умиротворения и вот этой гармонии, от слияния с бесконечно вечным, "/><LineBreak/><Run/><LineBreak/><Run Text="от созерцания великого фрактального подобия и от вот этого замечательного всеединства существа,"/><LineBreak/><Run/><LineBreak/><Run Text=" бесконечно вечного, куда ни посмотри, хоть вглубь - бесконечно малое, "/><LineBreak/><Run/><LineBreak/><Run Text="хоть ввысь - бесконечное большое, понимаешь? "/><LineBreak/><Run/><LineBreak/><Run Text="А ты мне опять со своим вот этим, иди суетись дальше, это твоё распределение, "/><LineBreak/><Run/><LineBreak/><Run Text="это твой путь и твой горизонт познания и ощущения твоей природы, он несоизмеримо мелок по сравнению с моим, понимаешь?"/></TextBlock>
+       
+</Grid>
+</Window>
